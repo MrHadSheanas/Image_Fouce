@@ -46,35 +46,6 @@ img:hover{
    filter: blur(0px);
    
 }
-@media screen and (max-width: 800px) {
-   h1{
-      font-size: 5em;
-      left:40%;
-      top: 25vh;
-   }
-   h5{
-      top: 70vh;
-      left: 30%;
-   }
-   h6{
-      top: 75vh;
-      left: 35%;
-   }
-
-}
-@media screen and (max-width: 400px) {
-   h1{
-      font-size: 3em;
-      left:35%;
-      top: 25vh;
-   }
-   h5{
-      top: 70vh;
-      left: 20%;
-   }
-   h6{
-      top: 75vh;
-      left: 25%;
-   }
+@media screen  {
 
 }

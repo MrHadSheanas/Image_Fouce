@@ -65,7 +65,7 @@ img:hover{
 @media screen and (max-width: 400px) {
    h1{
       font-size: 3em;
-      left:35%;
+      left:%;
       top: 25vh;
    }
    h5{
