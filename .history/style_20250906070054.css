@@ -1,0 +1,45 @@
+img{
+   position: relative;
+   width: 100%;
+   height:97vh;
+   display: flex;
+   filter: blur(10px);
+   transition: 0.2s;
+
+
+}
+h1{
+   position: absolute;
+   top:10vh;
+   left:35%;
+   font-size: 12em;
+   font-weight: 800;
+   color: white;
+   transition: all 2s;
+   transform: scale(0.8);
+   opacity: 0;
+   
+}
+h1:hover{
+   opacity: 1;
+   transform: scale(1.2);
+}
+h5{
+   position: absolute;
+   top: 60vh;
+   left: 47%;
+}
+h5{
+   position: ;
+   top: 64vh;
+   left: 45%;
+
+}
+h5:hover , h6:hover{
+
+   opacity: 1;
+}
+img:hover{
+   filter: blur(0px);
+   
+}
